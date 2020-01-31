@@ -1,0 +1,32 @@
+body{
+  font-family: American;
+  font-weight: normal;
+  color: black;
+  padding-right: 60px;
+  padding-left: 60px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin: 0 auto;
+  width:1000px;
+  font-size: 18px;
+  line-height: 1.3;
+  background-color: white;
+  im
+
+}
+h1 {
+  background-color: grey;
+  color: white;
+  font-size: 25px;
+  padding-right: 200px;
+  padding-left: 200px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
